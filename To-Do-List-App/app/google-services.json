@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766712447051",
+    "project_id": "tpdoapp",
+    "storage_bucket": "tpdoapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766712447051:android:b358d3a31a7b3dec9acdce",
+        "android_client_info": {
+          "package_name": "com.example.todolistapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtXQJrGUjsKo0QNW5v5X-GlmMdn0OZF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
